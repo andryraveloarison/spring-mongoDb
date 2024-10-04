@@ -1,4 +1,2 @@
-# spring-redis
-Spring Boot Redis DB CRUD Operations
-# spring-mongoDb
-# spring-mongoDb
+# spring-MongoDb
+Chat app avec spring boot et mongoDB
